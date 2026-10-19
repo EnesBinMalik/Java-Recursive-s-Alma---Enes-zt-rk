@@ -1,0 +1,6 @@
+{
+  "name": "Java Recursive Üs Alma - Enes Öztürk",
+  "description": "Java dilinde recursive metot ile üslü sayı hesaplama programı, canlı konsol simülatörü ve adım adım çağrı yığını (call stack) görselleştiricisi. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
